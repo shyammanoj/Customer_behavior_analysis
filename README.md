@@ -71,7 +71,7 @@ Load the cleaned dataset into SQL
 Run SQL queries to generate metrics
 Import the final dataset into Power BI to view the dashboard
 
-📌 Author
+**📌 Author**
 
-Shyam Manoj
-Data Analyst | SQL | Power BI | Python
+**Shyam Manoj
+Data Analyst | SQL | Power BI | Python**
