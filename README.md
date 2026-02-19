@@ -1,4 +1,4 @@
-📊 **Customer Behaviour Analysis Project**
+📊** **Customer Behaviour Analysis Project****
 
 📌 **Project Overview**
 This project focuses on analyzing customer behavior using a structured data analytics workflow. The objective is to clean raw customer data, calculate key business metrics, and generate interactive visual insights to better understand customer purchasing patterns and revenue trends.
